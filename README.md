@@ -53,7 +53,7 @@ Propósito: Este ejercicio nos ayuda a entender los conceptos básicos de multip
 ## 3. División.   
 En este ultimo ejercicio se creo un programa que realiza la división de dos números enteros utilizando registros de 32 bits.
 
-[Enlace al archivo resta.asm](src/resta.asm)
+[Ver archivo de Ejercicio 3]([src/resta.asm](https://github.com/Guill2/PORTAFOLIO-DEC135-RC22051/blob/7d939225b33e08b182ff545be727ad6607903f12/Ejercicio%203%20-%20Divisi%C3%B3n%20-%20RC22051))
 
 Propósito: Este ejercicio brinda una comprensión más profunda de cómo se implementan las operaciones aritméticas básicas en lenguaje de bajo nivel y cómo manejar los resultados de la división.
 
