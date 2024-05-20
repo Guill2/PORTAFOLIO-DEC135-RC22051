@@ -1,0 +1,37 @@
+section .data
+    msg6 db 0xA,0xD,"El resultado de la división es: ", 0
+    len6 equ $-msg6
+
+section .bss
+    res resb 1
+
+section .text
+global _start
+
+_start:
+    mov ax, 6        ; Almacena el dividendo (Cambie por el número que desea dividir) 
+    mov bx, 2        ; Almacena el divisor
+    mov dx, 0        ; El registro dx se toma implícitamente como la parte alta del dividendo (se inicializa a cero)
+    div bx           ; Realiza la división (dx:ax / bx)
+    add ax, 48
+    mov [res], ax    ; Almacena el resultado en la variable 'res'
+
+    ; Imprime el mensaje y el resultado
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg6
+    mov edx, len6
+    int 0x80
+
+    ; Imprime el resultado como carácter
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, res
+    mov edx, 1
+    int 0x80
+
+salir:
+    ; Finaliza el programa
+    mov eax, 1
+    mov ebx, 0
+    int 0x80
