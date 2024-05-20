@@ -46,14 +46,14 @@ Propósito: Este ejercicio nos ayuda a comprender cómo se manipulan y operan lo
 ## 2. Multiplicación. 
 En este programa se realiza la multiplicación de dos números enteros utilizando registros de 8 bits.
 
-[Ver archivo de Ejercicio 2](https://github.com/Guill2/PORTAFOLIO-DEC135-RC22051/blob/308f8e09ca69afd0ae0ca2c82a42ca3fdc9c7582/Ejercicio%202%20-%20Multiplicaci%C3%B3n%20-%20RC22051)
+[Ver archivo de Ejercicio 2]()
 
 Propósito: Este ejercicio nos ayuda a entender los conceptos básicos de multiplicación y cómo se realizan estas operaciones a un bajo nivel.
 
 ## 3. División.   
 En este ultimo ejercicio se creo un programa que realiza la división de dos números enteros utilizando registros de 32 bits.
 
-[Ver archivo de Ejercicio 3](https://github.com/Guill2/PORTAFOLIO-DEC135-RC22051/blob/7d939225b33e08b182ff545be727ad6607903f12/Ejercicio%203%20-%20Divisi%C3%B3n%20-%20RC22051)
+[Ver archivo de Ejercicio 3]()
 
 Propósito: Este ejercicio brinda una comprensión más profunda de cómo se implementan las operaciones aritméticas básicas en lenguaje de bajo nivel y cómo manejar los resultados de la división.
 
