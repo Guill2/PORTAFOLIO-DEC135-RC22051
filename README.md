@@ -38,7 +38,7 @@ En este trabajo se realizo la resolución de los tres ejercicios propuestos para
 ## 1. Resta de tres enteros.
 En este jercicio se creo un código en lenguaje ensamblador que implementa la resta de tres números enteros utilizando registros de 16 bits.
 
-[Ver archivo de Ejercicio 1](https://github.com/Guill2/PORTAFOLIO---DEC135---RC22051/blob/0cbdf13a18c8cdd7fdce0381ed91ca443aff0187/Ejercicio%201%20-%20Resta%20-%20RC22051)
+[Ver archivo de Ejercicio 1](https://github.com/Guill2/PORTAFOLIO-DEC135-RC22051/blob/3208097dc390a840e71bc0cacc1ba7b43f33dd82/Ejercicio%201%20-%20Resta%20-%20RC22051)
 
 
 Propósito: Este ejercicio nos ayuda a comprender cómo se manipulan y operan los datos en registros de menor tamaño.
