@@ -1,7 +1,8 @@
 # PORTAFOLIO---DEC135---RC22052
 
 UNIVERSIDAD DE EL SALVADOR
-![image](https://github.com/Guill2/PORTAFOLIO---DEC135---RC22052/assets/134907865/a40665dc-4109-4c40-a74c-6aebfa592e8d)
+![image](https://github.com/Guill2/PORTAFOLIO---DEC135---RC22052/assets/134907865/2cad9d3d-8d20-43a7-9e02-29aca9c1c29c)
+
 Facultad Multidisciplinaria De Occidente
 Departamento de Ingeniería y Arquitectura
 Ingeniería en Desarrollo de Software
