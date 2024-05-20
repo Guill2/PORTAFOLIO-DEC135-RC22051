@@ -38,8 +38,8 @@ En este trabajo se realizo la resolución de los tres ejercicios propuestos para
 ## 1. Resta de tres enteros.
 En este jercicio se creo un código en lenguaje ensamblador que implementa la resta de tres números enteros utilizando registros de 16 bits.
 
-[Enlace al archivo resta.asm](PORTAFOLIO---DEC135---RC22051
-/Ejercicio 1 - Resta - RC22051)
+[Ver archivo de ensamblador](codigo/resta.asm)
+
 
 Propósito: Este ejercicio nos ayuda a comprender cómo se manipulan y operan los datos en registros de menor tamaño.
 
