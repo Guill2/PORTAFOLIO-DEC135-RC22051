@@ -1,7 +1,8 @@
 # PORTAFOLIO---DEC135---RC22052
 
 UNIVERSIDAD DE EL SALVADOR
-![image](https://github.com/Guill2/PORTAFOLIO---DEC135---RC22052/assets/134907865/2cad9d3d-8d20-43a7-9e02-29aca9c1c29c)
+![image](https://github.com/Guill2/PORTAFOLIO---DEC135---RC22052/assets/134907865/9a332be6-5901-453e-ba17-792551377cdf)
+
 
 Facultad Multidisciplinaria De Occidente
 Departamento de Ingeniería y Arquitectura
