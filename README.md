@@ -45,7 +45,7 @@ Propósito: Este ejercicio nos ayuda a comprender cómo se manipulan y operan lo
 ## 2. Multiplicación. 
 En este programa se realiza la multiplicación de dos números enteros utilizando registros de 8 bits.
 
-[Enlace al archivo resta.asm](src/resta.asm)
+[Ejercicio 1 - Resta - RC22051](src/Ejercicio 1 - Resta - RC22051)
 
 Propósito: Este ejercicio nos ayuda a entender los conceptos básicos de multiplicación y cómo se realizan estas operaciones a un bajo nivel.
 
