@@ -29,8 +29,6 @@ RC22051
 ## Fecha:
 19/5/2024
 
-
-
 # Resolución de Ejercicios en Ensamblador
 
 En este trabajo se realizo la resolución de los tres ejercicios propuestos para el portafolio, los cuales son los siguientes:
