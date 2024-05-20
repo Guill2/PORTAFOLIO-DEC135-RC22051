@@ -1,0 +1,35 @@
+section .data
+    msg db "El resultado es: ", 0
+
+section .bss
+    res resb 1
+
+section .text
+global _start
+
+_start:
+    mov ax, 10       ; Primer número
+    sub ax, 5        ; Resta el segundo número
+    sub ax, 3        ; Resta el tercer número
+    add ax, 48       ; Convierte el resultado entero a carácter ('0'-'9')
+    mov [res], ax    ; Almacena el resultado en la variable 'res'
+
+    ; Imprime el mensaje y el resultado
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg
+    mov edx, 17  
+    int 0x80
+
+    ; Imprime el resultado como carácter
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, res
+    mov edx, 1
+    int 0x80
+
+salir:
+    ; Finaliza el programa
+    mov eax, 1
+    mov ebx, 0
+    int 0x80
