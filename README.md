@@ -46,7 +46,7 @@ Propósito: Este ejercicio nos ayuda a comprender cómo se manipulan y operan lo
 ## 2. Multiplicación. 
 En este programa se realiza la multiplicación de dos números enteros utilizando registros de 8 bits.
 
-[Ver archivo de Ejercicio 2]()
+[Ver archivo de Ejercicio 2](https://github.com/Guill2/PORTAFOLIO-DEC135-RC22051/blob/3208097dc390a840e71bc0cacc1ba7b43f33dd82/Ejercicio%202%20-%20Multiplicaci%C3%B3n%20-%20RC22051)
 
 Propósito: Este ejercicio nos ayuda a entender los conceptos básicos de multiplicación y cómo se realizan estas operaciones a un bajo nivel.
 
