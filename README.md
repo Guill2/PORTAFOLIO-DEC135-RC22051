@@ -38,7 +38,7 @@ En este trabajo se realizo la resolución de los tres ejercicios propuestos para
 ## 1. Resta de tres enteros.
 En este jercicio se creo un código en lenguaje ensamblador que implementa la resta de tres números enteros utilizando registros de 16 bits.
 
-[Ver archivo de ensamblador](https://github.com/Guill2/PORTAFOLIO---DEC135---RC22051/blob/0cbdf13a18c8cdd7fdce0381ed91ca443aff0187/Ejercicio%201%20-%20Resta%20-%20RC22051)
+[Ver archivo de Ejercicio 1](https://github.com/Guill2/PORTAFOLIO---DEC135---RC22051/blob/0cbdf13a18c8cdd7fdce0381ed91ca443aff0187/Ejercicio%201%20-%20Resta%20-%20RC22051)
 
 
 Propósito: Este ejercicio nos ayuda a comprender cómo se manipulan y operan los datos en registros de menor tamaño.
@@ -46,7 +46,7 @@ Propósito: Este ejercicio nos ayuda a comprender cómo se manipulan y operan lo
 ## 2. Multiplicación. 
 En este programa se realiza la multiplicación de dos números enteros utilizando registros de 8 bits.
 
-[Ejercicio 1 - Resta - RC22051](src/Ejercicio 1 - Resta - RC22051)
+[Ver archivo de Ejercicio 2]([src/Ejercicio 1 - Resta - RC22051](https://github.com/Guill2/PORTAFOLIO-DEC135-RC22051/blob/308f8e09ca69afd0ae0ca2c82a42ca3fdc9c7582/Ejercicio%202%20-%20Multiplicaci%C3%B3n%20-%20RC22051)
 
 Propósito: Este ejercicio nos ayuda a entender los conceptos básicos de multiplicación y cómo se realizan estas operaciones a un bajo nivel.
 
