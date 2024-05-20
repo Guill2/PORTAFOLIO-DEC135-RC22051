@@ -1,5 +1,5 @@
 section .data
-    msg db "El resultado es: ", 0
+    msg db "El resultado de la resta es: ", 0
 
 section .bss
     res resb 1
